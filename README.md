@@ -1,8 +1,8 @@
 # Hi, I'm Nicholas 👋
 
-Quality engineer, automation enthusiast, side-project builder, finance geek, music lover, gamer, and curious mind always looking for better ways to build and test software.
+QA, automation enthusiast, side-project builder, finance geek, coffee & art lover, curious mind looking for better ways to build and test software.
 
-I work mostly with mobile test automation, E2E testing, QA strategy, and CI/CD workflows. I like building reliable automation frameworks, improving test architecture, and creating tools that make software delivery less painful.
+Currently I work mostly with mobile test automation, E2E testing, QA strategy, and CI/CD workflows. But I also love and have worked with web automation as well. I like building reliable automation frameworks, improving test architecture, and creating tools that make software delivery less painful.
 
 ---
 
